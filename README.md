@@ -1,6 +1,6 @@
 # AXIUM_project
 
-# Assignment
+## Assignment
 1) Fork the Project
 2) Create the page depicted in design comp: Product-Details.jpg. It is not necessary to translate everything into markup at this
 point, if time is limited you may use image slices for elements where it makes sense.
@@ -13,7 +13,7 @@ when the user clicks “Submit Review”.
 4) Make sure the website passes all accessibility requirements
 5) Deploy your final project using github.
 
-# Additional Information
+## Additional Information
 • Please find image assets in the image-assets folder of the assignment materials
 • Use any libraries or techniques desired to complete the assignment
 • The font used in the menus and body text is Raleway - http://www.google.com/fonts/specimen/Raleway
