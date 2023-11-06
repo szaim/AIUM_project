@@ -14,6 +14,6 @@ when the user clicks “Submit Review”.
 5) Deploy your final project using github.
 
 ## Additional Information
-• Please find image assets in the image-assets folder of the assignment materials
-• Use any libraries or techniques desired to complete the assignment
+• Please find image assets in the image-assets folder of the assignment materials <br /> 
+• Use any libraries or techniques desired to complete the assignment <br />
 • The font used in the menus and body text is Raleway - http://www.google.com/fonts/specimen/Raleway
